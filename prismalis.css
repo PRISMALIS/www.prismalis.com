@@ -1,19 +1,19 @@
 .image-wrapper {
-  	margin: 0px;
-  	width: 100%;
-  	margin-top: 20%;
-  	height: auto;
-  	outline: dashed 0px black;
-  /* Center vertically and horizontally */
-  	display: flex;
-  	justify-content: center;
-  	align-items: center;
+	margin: 0px;
+	width: 100%;
+	margin-top: 20%;
+	height: auto;
+	outline: dashed 0px black;
+	/* Center vertically and horizontally */
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .image {
-  	width: 567px;
-  	height: 99px;
-  	background-color: white;
+	width: 600px;
+	height: 150px;
+	background-color: white;
 }
 
 .contact-us {
@@ -34,4 +34,3 @@
 .contact-us a:hover {
 	color: red;
 }
-
