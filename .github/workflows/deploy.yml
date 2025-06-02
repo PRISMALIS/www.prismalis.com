@@ -36,3 +36,4 @@ jobs:
           cname: prismalis.com
           force_orphan: true
           commit_message: "Deploy to GitHub Pages"
+          keep_files: false
