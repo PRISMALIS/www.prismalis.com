@@ -33,7 +33,9 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          publish_branch: gh-pages
           cname: prismalis.com
           force_orphan: true
           commit_message: "Deploy to GitHub Pages"
           keep_files: false
+          enable_jekyll: false
