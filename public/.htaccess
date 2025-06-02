@@ -1,0 +1,7 @@
+AddType application/javascript .js
+AddType application/javascript .jsx
+AddType application/javascript .mjs
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule> 
