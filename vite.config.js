@@ -10,12 +10,6 @@ export default defineConfig({
     assetsDir: 'assets',
     emptyOutDir: true,
     sourcemap: false,
-    minify: 'terser',
-    terserOptions: {
-      format: {
-        comments: false,
-      },
-    },
     rollupOptions: {
       output: {
         manualChunks: undefined,
