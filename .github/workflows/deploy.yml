@@ -35,3 +35,4 @@ jobs:
           publish_dir: ./dist
           cname: prismalis.com
           force_orphan: true
+          commit_message: "Deploy to GitHub Pages"
