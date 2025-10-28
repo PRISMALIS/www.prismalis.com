@@ -97,7 +97,7 @@ export default function ContactForm() {
                 For general enquiries: <a href="mailto:contact@prismalis.com" style={{ color: 'inherit', textDecoration: 'none' }}>contact@prismalis.com</a>
               </Typography>
               <Typography variant="body2" color="text.primary" sx={{ mt: 1 }}>
-                For our EUDR tools & technical support: <a href="mailto:eudr@prismalis.com" style={{ color: 'inherit', textDecoration: 'none' }}>eudr@prismalis.com</a>
+                For our EUDR/ESPR tools & technical support : <a href="mailto:compliance-dev@prismalis.com" style={{ color: 'inherit', textDecoration: 'none' }}>compliance-dev@prismalis.com</a>
               </Typography>
               <Typography variant="body2" color="text.primary" sx={{ mt: 1 }}>
                 For our digital assets services: <a href="mailto:blockchain@prismalis.com" style={{ color: 'inherit', textDecoration: 'none' }}>blockchain@prismalis.com</a>
